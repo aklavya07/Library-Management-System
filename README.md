@@ -137,14 +137,14 @@ With modern AI tools like ChatGPT, solving challenges and contributing effective
 ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
-Copyright (c) 2018-present, harismuneer, MahamAmjad
+Copyright (c) 2025-present, Kumar Aklavya
 
 <!-- PROFILE_INTRO_START -->
 
 <hr>
 
 <h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="28"></a>
-Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris Muneer</a> 👨🏻‍💻
+Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Kumar Aklavya</a> 👨🏻‍💻
 </h1>
 
 
