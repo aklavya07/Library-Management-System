@@ -88,8 +88,8 @@ borrowed.
   Host: localhost
   Port: 1527
   Database: LMS
-  User Name: haris
-  Password: 123
+  User Name: Aklavya
+  Password: 123@ak
   ``` 
 ![step3](../master/images/step3.PNG)
 
@@ -107,13 +107,13 @@ The password for Administrative Functions is *lib*. The admin adds new clerks an
 
 You can get in touch with us on our LinkedIn Profiles:
 
-#### Haris Muneer
+#### Kumar Aklavya
 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
+[![LinkedIn Link](www.linkedin.com/in/kumar-aklavya)]
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
 
-#### Maham Amjad
+#### Kumar Aklavya
 
 [![LinkedIn Link](https://img.shields.io/badge/Connect-maham--amjad-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/maham-amjad-40796b177/)
 
